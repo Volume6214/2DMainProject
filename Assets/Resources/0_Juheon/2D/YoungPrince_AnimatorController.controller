@@ -32,7 +32,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PrinceYoung_Happy
+  m_Name: Happy
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -189,7 +189,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PrinceYoung_Move
+  m_Name: Move
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -217,7 +217,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PrinceYoung_idle
+  m_Name: idle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -285,7 +285,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PrinceYoung_Jump
+  m_Name: Jump
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -345,7 +345,7 @@ AnimatorStateMachine:
     m_Position: {x: 280, y: 120, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -1288455583091122415}
-    m_Position: {x: 50, y: 220, z: 0}
+    m_Position: {x: 60, y: 220, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 670999350382270124}
     m_Position: {x: 420, y: 230, z: 0}
