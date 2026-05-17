@@ -3,7 +3,7 @@
 public class EndingManager : MonoBehaviour
 {
     [Header("연결할 오브젝트")]
-    public GameObject dialogPanel; 
+    public GameObject dialogPanel;
 
     private bool isEnded = false;
 
